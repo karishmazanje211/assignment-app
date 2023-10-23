@@ -1,5 +1,5 @@
 ## Summary
-
+This app is demo app used to perform basic CRUD operations
 
 ## Features
  - Create/delete columns
